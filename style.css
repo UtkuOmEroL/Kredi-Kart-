@@ -1,0 +1,63 @@
+body{
+    color: white;
+}
+.container{
+    display: block;
+    margin: auto;
+    width: 1300px;
+    height: 500px;
+    border-radius: 25px;
+    background-color: #9d4edd;
+}
+.top{
+
+    display: flex;
+}
+.logo img{
+    width: 420px;
+    height: 90px;
+}
+.midfield{
+    height: 300px;
+    background-image: url("https://img.freepik.com/free-photo/liquid-purple-art-painting-abstract-colorful-background-with-color-splash-paints-modern-art_1258-103545.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.kod img{
+    width: 70px;
+    height: 70px;
+}
+.kod{
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+.debit{
+    display: flex;
+    margin: 0;
+    margin-right: 12px;
+}
+.debit h1 {
+    font-family: 'Work Sans', sans-serif;
+}
+.number h1{
+    text-align: center;
+    
+}
+.x{
+    display: flex;
+    margin: 0;
+    width: 200px;
+}
+.y{
+    margin: auto;
+    margin-right: 20px;
+}
+.trink h2{
+    position: relative;
+    top: 20px;
+    writing-mode: vertical-rl;
+}
+.z{
+    display: flex;
+}
