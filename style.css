@@ -4,10 +4,10 @@ body{
 .container{
     display: block;
     margin: auto;
-    width: 1300px;
+    width: 700px;
     height: 500px;
     border-radius: 25px;
-    background-color: #9d4edd;
+    background-color: #a2d2ff;
 }
 .top{
 
@@ -19,9 +19,10 @@ body{
 }
 .midfield{
     height: 300px;
-    background-image: url("https://img.freepik.com/free-photo/liquid-purple-art-painting-abstract-colorful-background-with-color-splash-paints-modern-art_1258-103545.jpg") ;
+    background-color: #457b9d;
+   background-image: url("./desktop-wallpaper-blue-world-malaysia-map.jpg") ; 
     background-repeat: no-repeat;
-    background-size: cover;
+    
 }
 .kod img{
     width: 70px;
